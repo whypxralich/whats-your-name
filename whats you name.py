@@ -1,0 +1,5 @@
+print ("Hi! Whats your name?")
+name = input()
+print ("Nice to meet you,",name,"! How are you?")
+hay = input()
+print ("Thats Great!")
